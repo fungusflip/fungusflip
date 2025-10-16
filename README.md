@@ -1,6 +1,6 @@
 
 Hi there 👋
-I'm FungusFlip((Filip Renemark)
+I'm FungusFlip(Filip Renemark)
 
 - 💬 Ask me about optimization, design patterns, and applied math in creative endeavors.
 - 📫 How to reach me: Discord!!! Filthydunder
